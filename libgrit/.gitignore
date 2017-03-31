@@ -1,0 +1,8 @@
+bin/
+
+# cmake stuff
+*.cmake
+BuildConfig.h
+Makefile
+CMakeFiles/
+CMakeCache.txt
